@@ -6,7 +6,7 @@ I built this project to practice React fundamentals and create a user-friendly i
 
 ## 📸 Project Screenshot
 
-![BookVibe Screenshot](./book-vibe-screenshot.png)
+![BookVibe Screenshot](book-vibe-project-theta.vercel.app_.png)
 
 
 ## 🛠️ Technologies Used
@@ -90,22 +90,24 @@ http://localhost:5173
 
 Open the URL in your browser and the project should be running.
 
-🎯 What I Learned From This Project
+⚙️ How to Run the Project Locally
 
-While building BookVibe, I got more comfortable with:
+If you want to run this project on your local machine, follow these steps.
 
-Creating reusable React components
-Passing data through props
-Managing component state
-Handling user events
-Rendering dynamic data with .map()
-Conditional rendering
-React Router
-Creating multiple pages
-Building responsive layouts
-Organizing a React project
-Working with npm packages
-Using Vite for React development
+1. Clone the repository
+git clone https://github.com/TaheraScript/BookVibe-Next.js.git
+2. Go to the project folder
+cd BookVibe-Next.js
+3. Install dependencies
+npm install
+4. Start the development server
+npm run dev
+
+After that, Vite will give you a local URL, usually something like:
+
+http://localhost:5173
+
+Open the URL in your browser and the project should be running.
 🔗 Relevant Links
 
 🌐 Live Demo: BookVibe <br>
