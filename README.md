@@ -2,12 +2,11 @@
 
 BookVibe is a React-based online book browsing and reading platform where users can explore different books, view book details, and manage their reading list.
 
-I built this project to practice React fundamentals and create a user-friendly interface for browsing and managing books. While working on the project, I practiced concepts such as components, props, state management, routing, event handling, reusable components, and dynamic data rendering.
+I built this project to practice React fundamentals and create a user-friendly interface for browsing and managing books.
 
 ## 📸 Project Screenshot
 
 ![BookVibe Screenshot](book-vibe-project-theta.vercel.app_.png)
-
 
 ## 🛠️ Technologies Used
 
@@ -22,7 +21,6 @@ The main technologies and tools I used to build this project are:
 | Vite | Development server and build tool |
 | JSON | Storing and managing book data |
 
-
 ## ✨ Main Features
 
 ### 1. Browse Books
@@ -33,13 +31,9 @@ Users can browse different books available on the website and explore the availa
 
 Users can select a book and view more detailed information about it.
 
-The details page provides a better view of the selected book and its information.
-
 ### 3. Reading List
 
 Users can add books to their personal reading list.
-
-This makes it easier to keep track of books they are interested in reading.
 
 ### 4. Interactive User Interface
 
@@ -55,64 +49,66 @@ I used React concepts such as:
 - Conditional rendering
 - Reusable components
 
-### 5. Page Navigation
-
-React Router is used to navigate between different pages of the application without completely reloading the website.
-
-### 6. Responsive Design
-
-The website is designed to work across different screen sizes, including desktop, tablet, and mobile devices.
-
-
 ## 📦 Dependencies
 
 Some of the main packages used in this project are:
 
-```bash
-react
-react-dom
-react-router-dom⚙️ How to Run the Project Locally
+- `react`
+- `react-dom`
+- `react-router-dom`
 
-If you want to run this project on your local machine, follow these steps.
+The complete list of dependencies can be found in the project's `package.json` file.
 
-1. Clone the repository
-git clone https://github.com/TaheraScript/BookVibe-Next.js.git
-2. Go to the project folder
-cd BookVibe-Next.js
-3. Install dependencies
-npm install
-4. Start the development server
-npm run dev
+## ⚙️ How to Run the Project Locally
 
-After that, Vite will give you a local URL, usually something like:
+### 1. Clone the repository
 
-http://localhost:5173
+    git clone https://github.com/TaheraScript/BookVibe-Next.js.git
 
-Open the URL in your browser and the project should be running.
+### 2. Go to the project folder
 
-⚙️ How to Run the Project Locally
+    cd BookVibe-Next.js
 
-If you want to run this project on your local machine, follow these steps.
+### 3. Install dependencies
 
-1. Clone the repository
-git clone https://github.com/TaheraScript/BookVibe-Next.js.git
-2. Go to the project folder
-cd BookVibe-Next.js
-3. Install dependencies
-npm install
-4. Start the development server
-npm run dev
+    npm install
 
-After that, Vite will give you a local URL, usually something like:
+### 4. Start the development server
 
-http://localhost:5173
+    npm run dev
 
-Open the URL in your browser and the project should be running.
-🔗 Relevant Links
+The project will then be available at:
 
-🌐 Live Demo: BookVibe <br>
-💻 GitHub: GitHub Repository <br>
-⚛️ React: https://react.dev/ <br>
-🧭 React Router: https://reactrouter.com/ <br>
-⚡ Vite: https://vite.dev/ <br>
-🎨 Tailwind CSS: https://tailwindcss.com/
+    http://localhost:5173
+
+## 🔗 Relevant Links
+
+🌐 Live Demo: [BookVibe](https://book-vibe-project-theta.vercel.app/)
+
+💻 GitHub: [GitHub Repository](https://github.com/TaheraScript/BookVibe-Next.js)
+
+⚛️ React: [https://react.dev/](https://react.dev/)
+
+🧭 React Router: [https://reactrouter.com/](https://reactrouter.com/)
+
+⚡ Vite: [https://vite.dev/](https://vite.dev/)
+
+🎨 Tailwind CSS: [https://tailwindcss.com/](https://tailwindcss.com/)
+
+## 👩‍💻 About the Project
+
+BookVibe was built as a React practice project where I focused on creating a clean and interactive book browsing experience.
+
+My main goal was to improve my understanding of React components, routing, state management, dynamic data rendering, and responsive UI design.
+
+## 🚀 Future Improvements
+
+Some features I may add or improve in the future:
+
+- User authentication
+- Search and filter functionality
+- Book categories
+- Persistent reading list
+- Better book recommendations
+- Improved mobile experience
+- Backend integration
