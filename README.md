@@ -53,33 +53,21 @@ I used React concepts such as:
 
 Some of the main packages used in this project are:
 
-- `react`
-- `react-dom`
-- `react-router-dom`
+- react
+- react-dom
+- react-router-dom
 
-The complete list of dependencies can be found in the project's `package.json` file.
+The complete list of dependencies can be found in the project's package.json file.
 
-## ⚙️ How to Run the Project Locally
+## 📦 Dependencies
 
-### 1. Clone the repository
+Some of the main packages used in this project are:
 
-    git clone https://github.com/TaheraScript/BookVibe-Next.js.git
+- react
+- react-dom
+- react-router-dom
 
-### 2. Go to the project folder
-
-    cd BookVibe-Next.js
-
-### 3. Install dependencies
-
-    npm install
-
-### 4. Start the development server
-
-    npm run dev
-
-The project will then be available at:
-
-    http://localhost:5173
+The complete list of dependencies can be found in the project's package.json file.
 
 ## 🔗 Relevant Links
 
@@ -95,20 +83,4 @@ The project will then be available at:
 
 🎨 Tailwind CSS: [https://tailwindcss.com/](https://tailwindcss.com/)
 
-## 👩‍💻 About the Project
 
-BookVibe was built as a React practice project where I focused on creating a clean and interactive book browsing experience.
-
-My main goal was to improve my understanding of React components, routing, state management, dynamic data rendering, and responsive UI design.
-
-## 🚀 Future Improvements
-
-Some features I may add or improve in the future:
-
-- User authentication
-- Search and filter functionality
-- Book categories
-- Persistent reading list
-- Better book recommendations
-- Improved mobile experience
-- Backend integration
