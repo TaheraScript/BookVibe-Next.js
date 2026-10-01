@@ -49,15 +49,6 @@ I used React concepts such as:
 - Conditional rendering
 - Reusable components
 
-## 📦 Dependencies
-
-Some of the main packages used in this project are:
-
-- react
-- react-dom
-- react-router-dom
-
-The complete list of dependencies can be found in the project's package.json file.
 
 ## 📦 Dependencies
 
