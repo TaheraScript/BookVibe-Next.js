@@ -45,7 +45,7 @@ I used React concepts such as:
 - Props
 - State
 - Event handling
-- `.map()`
+- .map()
 - Conditional rendering
 - Reusable components
 
@@ -59,6 +59,24 @@ Some of the main packages used in this project are:
 - react-router-dom
 
 The complete list of dependencies can be found in the project's package.json file.
+⚙️ How to Run the Project Locally
+
+If you want to run this project on your local machine, follow these steps.
+
+1. Clone the repository
+git clone https://github.com/TaheraScript/BookVibe-Next.js.git
+2. Go to the project folder
+cd BookVibe-Next.js
+3. Install dependencies
+npm install
+4. Start the development server
+npm run dev
+
+After that, Vite will provide a local URL, usually something like:
+
+http://localhost:5173
+
+Open the URL in your browser, and the BookVibe project should be running locally.
 
 ## 🔗 Relevant Links
 
