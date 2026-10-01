@@ -61,7 +61,7 @@ Some of the main packages used in this project are:
 The complete list of dependencies can be found in the project's package.json file.
 
 
-##⚙️ How to Run the Project Locally
+## ⚙️ How to Run the Project Locally
 
 If you want to run this project on your local machine, follow these steps.
 
